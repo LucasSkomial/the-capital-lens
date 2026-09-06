@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: YOUR_GITHUB_USERNAME/the-capital-lens
+  repo: LucasSkomial/the-capital-lens
   branch: main
 
 site_url: https://YOUR-NETLIFY-SITE.netlify.app
