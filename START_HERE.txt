@@ -1,0 +1,36 @@
+THE CAPITAL LENS — PUBLISHABLE VERSION
+======================================
+
+This is no longer just a folder of HTML pages. It is set up as a Git-backed publishing site.
+
+WHAT HAPPENS AFTER SETUP
+------------------------
+1. Your website stays live on Netlify.
+2. You go to: https://YOUR-SITE.netlify.app/admin/
+3. Sign in with the GitHub account that owns the website repository.
+4. Click “New Market Analysis.”
+5. Fill in the title, market snapshot, takeaways, sections, and sources.
+6. Click Publish.
+7. The post is saved to GitHub and Netlify automatically builds the new version.
+8. The new post appears first on the Analysis page. Older posts stay online.
+
+ONE-TIME SETUP YOU STILL HAVE TO DO
+-----------------------------------
+I cannot fill these in for you yet because they depend on accounts you create:
+
+A. Create a GitHub repository named: the-capital-lens
+B. Upload every file in this folder to that repository.
+C. In admin/config.yml, replace:
+   YOUR_GITHUB_USERNAME/the-capital-lens
+   with your real GitHub username/repository.
+D. Import the GitHub repository into Netlify.
+E. In admin/config.yml, replace BOTH copies of:
+   https://YOUR-NETLIFY-SITE.netlify.app
+   with your Netlify website URL.
+F. Commit that config change to GitHub.
+G. Set up GitHub OAuth for the /admin login. Full directions are in README.md.
+
+IMPORTANT
+---------
+Do not upload the _site folder to GitHub manually. Netlify creates it during each build.
+The website source is in content/, assets/, admin/, and build.js.

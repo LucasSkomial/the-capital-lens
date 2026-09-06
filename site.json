@@ -1,0 +1,13 @@
+{
+  "name": "The Capital Lens",
+  "shortName": "TCL",
+  "eyebrow": "Weekly Market Intelligence",
+  "tagline": "See the market through a clearer lens.",
+  "homeIntro": "Independent weekly analysis of equities, macroeconomics, rates, earnings, and the forces moving financial markets. A new analysis is published every Saturday.",
+  "aboutTitle": "Built by a student of the markets.",
+  "aboutParagraphs": [
+    "I’m a high school student with a strong interest in finance, investing, and equity research. I created The Capital Lens to build a consistent habit of studying the market, separating meaningful signals from daily noise, and developing a clear, evidence-based point of view.",
+    "Each Saturday, I publish a new market analysis covering the week that just ended, the forces that mattered most, and the developments I’m watching next. Over time, the archive is designed to show not just what happened in markets, but how my thinking develops as conditions change."
+  ],
+  "disclaimer": "The Capital Lens is an independent educational project. Nothing on this site is financial advice or a recommendation to buy or sell any security."
+}

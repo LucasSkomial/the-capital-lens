@@ -1,0 +1,12 @@
+{
+  "name": "the-capital-lens",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The Capital Lens — weekly market analysis publication",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

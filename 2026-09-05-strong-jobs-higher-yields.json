@@ -1,0 +1,140 @@
+{
+  "title": "A Strong Jobs Report Changes the Rate Conversation",
+  "date": "2026-09-05",
+  "deck": "Stocks finished a volatile holiday-shortened week nearly flat, while stronger hiring, elevated oil prices, and higher Treasury yields put the Federal Reserve back at the center of the market story.",
+  "readTime": "7 min read",
+  "tags": [
+    "Weekly Analysis",
+    "Fed",
+    "Jobs",
+    "Oil"
+  ],
+  "snapshot": [
+    {
+      "name": "S&P 500",
+      "value": "7,718.60",
+      "change": "+0.1% wk",
+      "tone": "up"
+    },
+    {
+      "name": "Nasdaq",
+      "value": "26,506.99",
+      "change": "+0.4% wk",
+      "tone": "up"
+    },
+    {
+      "name": "Dow",
+      "value": "53,414.25",
+      "change": "-0.3% wk",
+      "tone": "down"
+    },
+    {
+      "name": "2Y Treasury",
+      "value": "4.37%",
+      "change": "Fri.",
+      "tone": "flat"
+    },
+    {
+      "name": "10Y Treasury",
+      "value": "~4.78%",
+      "change": "Fri.",
+      "tone": "flat"
+    },
+    {
+      "name": "WTI Crude",
+      "value": "$91.48",
+      "change": "~+10% wk",
+      "tone": "up"
+    }
+  ],
+  "quickTake": [
+    "The major indexes ended the week close to flat despite large day-to-day moves.",
+    "August payrolls rose by 162,000, far above the 56,000 consensus estimate reported by Reuters.",
+    "The unemployment rate stayed at 4.1%, while average hourly earnings rose 0.3% in August and 3.1% from a year earlier.",
+    "Oil was one of the biggest macro moves: WTI gained nearly 10% for the week and Brent rose 7.6%.",
+    "Next week, inflation data becomes the key test for whether the stronger labor market actually leads to tighter Fed policy."
+  ],
+  "sections": [
+    {
+      "heading": "1. The Week in One Sentence",
+      "body": [
+        "The market spent the week bouncing between two competing ideas: economic growth still looks resilient, but that resilience makes it harder for investors to count on easier monetary policy.",
+        "Tuesday started September with a risk-off move as bond yields and oil prices climbed. By Thursday, stocks rallied sharply after Federal Reserve Governor Christopher Waller indicated he could support holding rates steady if inflation pressures continued to cool. Friday then reversed part of that optimism after the August jobs report came in much stronger than expected."
+      ]
+    },
+    {
+      "heading": "2. The Jobs Report Was the Main Event",
+      "body": [
+        "The Bureau of Labor Statistics reported that nonfarm payroll employment increased by 162,000 in August. The unemployment rate was unchanged at 4.1%. Average hourly earnings rose 0.3% during the month and were up 3.1% over the year.",
+        "The surprise mattered because markets had been expecting a much weaker labor number. Reuters reported a consensus estimate of just 56,000 jobs. A stronger labor market gives the Fed more room to stay focused on inflation instead of worrying about an immediate deterioration in employment."
+      ],
+      "callout": "My takeaway: strong hiring is good for the economy, but in the short term it can be uncomfortable for stocks because it reduces the urgency for the Fed to become more supportive."
+    },
+    {
+      "heading": "3. Rates Are Back in Control",
+      "body": [
+        "Treasury yields moved higher after Friday’s jobs report. The two-year yield, which is especially sensitive to Fed expectations, finished around 4.37%, while the 10-year yield was around 4.78%.",
+        "Higher yields raise the discount rate investors use to value future corporate earnings. That tends to matter most for expensive growth stocks, even when the underlying companies are still performing well. This is why the bond market remains just as important as the stock market right now."
+      ]
+    },
+    {
+      "heading": "4. Oil Added Another Inflation Risk",
+      "body": [
+        "Energy was the other major macro story. Reuters reported that Brent crude rose 7.6% for the week and U.S. crude gained nearly 10%, with WTI settling Friday at $91.48 a barrel.",
+        "A persistent oil move can filter into transportation costs, production costs, and eventually inflation expectations. It does not guarantee a new inflation wave, but it gives the Fed another reason to be careful."
+      ]
+    },
+    {
+      "heading": "5. The Economy Still Looks Resilient",
+      "body": [
+        "The week also brought solid business-activity data. The ISM Manufacturing PMI came in at 54.6 for August, marking an eighth consecutive month of manufacturing expansion. ISM’s Services PMI rose to 55.4, showing stronger service-sector activity as well.",
+        "That combination — stronger hiring plus expanding manufacturing and services — is not a recession signal. The more difficult question for markets is whether growth can stay solid while inflation cools enough to prevent additional tightening."
+      ]
+    },
+    {
+      "heading": "6. What I’m Watching Next Week",
+      "body": [
+        "Inflation is the biggest item on my calendar. Producer-price data is due Thursday and consumer-price data is due Friday. After the jobs surprise, a hotter inflation reading could strengthen the case for tighter policy, while a softer reading could calm the bond market.",
+        "I’m also watching whether the S&P 500 can hold near current levels while Treasury yields remain elevated, whether technology leadership broadens, and whether oil keeps pushing higher. Those three areas should tell us a lot about risk appetite going into the middle of September."
+      ]
+    },
+    {
+      "heading": "Bottom Line",
+      "body": [
+        "The headline index returns made this look like a quiet week: the S&P 500 gained just 0.1%, the Nasdaq added 0.4%, and the Dow slipped 0.3%. Under the surface, though, the macro setup changed. The labor market looked much stronger than investors expected, oil jumped, and rate expectations moved back toward the center of the conversation.",
+        "For me, the market is still constructive, but the next move depends less on earnings headlines and more on whether inflation allows yields to settle down. That makes next week’s CPI and PPI data especially important."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Associated Press — Major U.S. indexes, Sept. 4, 2026",
+      "url": "https://apnews.com/article/stock-market-dow-nasdaq-jobs-ebc11cfa2cf8baf4491bf3d4199c1d74"
+    },
+    {
+      "label": "Bureau of Labor Statistics — August 2026 Employment Situation",
+      "url": "https://www.bls.gov/news.release/archives/empsit_09042026.htm"
+    },
+    {
+      "label": "Reuters — Jobs, yields, oil and Sept. 4 market reaction",
+      "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-09-04/"
+    },
+    {
+      "label": "Reuters — Sept. 1 market selloff and rate expectations",
+      "url": "https://www.reuters.com/business/wall-st-futures-kick-off-september-under-pressure-yields-oil-prices-rise-2026-09-01/"
+    },
+    {
+      "label": "Reuters — Sept. 3 rally after Waller comments",
+      "url": "https://www.reuters.com/business/wall-st-futures-subdued-investors-weigh-earnings-oil-prices-2026-09-03/"
+    },
+    {
+      "label": "ISM — August 2026 Manufacturing PMI",
+      "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/august/"
+    },
+    {
+      "label": "ISM — August 2026 Services PMI",
+      "url": "https://www.ismworld.org/supply-management-news-and-reports/news-publications/inside-supply-management-magazine/blog/2026/2026-09/ism-pmi-reports-roundup-august-2026-services/"
+    }
+  ],
+  "featured": true
+}
