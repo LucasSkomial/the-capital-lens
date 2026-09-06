@@ -3,8 +3,8 @@ backend:
   repo: LucasSkomial/the-capital-lens
   branch: main
 
-site_url: https://YOUR-NETLIFY-SITE.netlify.app
-display_url: https://YOUR-NETLIFY-SITE.netlify.app
+site_url: https://the-capital-lens.netlify.app
+display_url: https://the-capital-lens.netlify.app
 logo_url: /assets/logo.svg
 
 media_folder: assets/uploads
