@@ -2,6 +2,7 @@ backend:
   name: github
   repo: LucasSkomial/the-capital-lens
   branch: main
+  open_authorating: true
 
 site_url: https://the-capital-lens.netlify.app
 display_url: https://the-capital-lens.netlify.app
@@ -10,7 +11,7 @@ logo_url: /assets/logo.svg
 media_folder: assets/uploads
 public_folder: /assets/uploads
 
-publish_mode: simple
+publish_mode: editorial_workflow
 
 collections:
   - name: analysis
