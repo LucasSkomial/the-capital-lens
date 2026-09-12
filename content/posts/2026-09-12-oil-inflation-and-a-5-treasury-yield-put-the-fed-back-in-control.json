@@ -1,0 +1,143 @@
+{
+  "readTime": "7 min read",
+  "snapshot": [
+    {
+      "name": "S&P 500",
+      "value": "7,656.98",
+      "change": "-0.8% wk",
+      "tone": "down"
+    },
+    {
+      "name": "Nasdaq Composite",
+      "value": "26,333.04  ",
+      "change": "-0.7%",
+      "tone": "down"
+    },
+    {
+      "name": "Dow Jones",
+      "value": "52,573.29  ",
+      "change": "-1.6%",
+      "tone": "down"
+    },
+    {
+      "name": "Russell 2000",
+      "value": "2,903.94  ",
+      "change": "-2,4%",
+      "tone": "down"
+    },
+    {
+      "name": "10-Year Treasury Yield",
+      "value": "~4.97%",
+      "change": "+~18 bps",
+      "tone": "up"
+    },
+    {
+      "name": "2-Year Treasury Yield",
+      "value": "~4.64%",
+      "change": "+~25 bps",
+      "tone": "up"
+    },
+    {
+      "name": "WTI Crude",
+      "value": "$100.05/barrel",
+      "change": "+9.4%",
+      "tone": "up"
+    },
+    {
+      "name": "Brent Crude",
+      "value": "$104.61/barrel",
+      "tone": "up",
+      "change": "+8.7%"
+    },
+    {
+      "name": "Spot Gold",
+      "change": "approximately -1.5%",
+      "value": "~$4,350-$4,360",
+      "tone": "down"
+    }
+  ],
+  "deck": "Markets ended a volatile week with a strong Friday rebound, but the bigger picture was less encouraging. The S&P 500, Nasdaq, Dow, and Russell 2000 all finished the week lower as a surge in oil prices, persistent inflation, and rising Treasury yields pushed interest-rate risk back to the center of the market.\n\nThe S&P 500 finished Friday at 7,656.98, but still lost 0.8% for the week. The Nasdaq declined 0.7%, the Dow fell 1.6%, and the Russell 2000 dropped 2.4%.\n\nThe biggest change this week was in the bond and energy markets. The 10-year Treasury yield climbed to roughly 4.97%, approaching the psychologically important 5% level, while WTI crude finished at $100.05 per barrel and Brent at $104.61.\n\nAt the same time, August inflation data remained firm. CPI rose 3.4% year over year, while producer prices increased 5.4%. That combination has sharply increased expectations that the Federal Reserve could raise rates at its September 16 meeting.\n\nThe next several days could determine whether the market's recent rally can continue or whether higher rates and energy prices begin to create a larger valuation reset.",
+  "featured": true,
+  "sections": [
+    {
+      "heading": "1. Equities: Friday's Rally Could Not Save the Week",
+      "body": [
+        "Stocks finished Friday strongly after oil prices pulled back from their highs.\n\nThe S&P 500 gained about 0.9% Friday, the Nasdaq rose roughly 1%, and the Dow added about 1%.\n\nDespite that rebound, all three indexes finished lower for the week.\n\nThe S&P 500 lost 0.8%, while the Nasdaq fell 0.7%. The Dow performed worse, declining 1.6%. Small-cap stocks showed even more weakness, with the Russell 2000 falling 2.4%.\n\nSmall caps are particularly sensitive to interest rates because many smaller companies rely more heavily on borrowing and refinancing than highly profitable mega-cap companies.\n\nThat makes the Russell's underperformance worth watching.\n\nHigher Treasury yields can also pressure expensive growth stocks because investors discount their future earnings at a higher rate.\n\nThis creates a major question for the market:\n\nCan earnings growth remain strong enough to offset a higher interest-rate environment?\n\nFor now, investors have not abandoned equities. Friday's rebound showed that buyers are still willing to step in when inflation fears ease even slightly.\n\nHowever, the market is becoming increasingly dependent on what happens in bonds and oil."
+      ]
+    },
+    {
+      "heading": "2. Inflation: The Fed's Problem Is Not Going Away",
+      "body": [
+        "August inflation data gave the Federal Reserve another reason to remain cautious.\n\nConsumer prices rose 0.4% month over month in August and 3.4% from a year earlier.\n\nCore CPI, which removes food and energy, increased 0.3% during the month and 2.4% year over year.\n\nProducer inflation was even stronger.\n\nThe Producer Price Index rose 0.4% in August and 5.4% compared with a year earlier.\n\nOne major reason for the increase was energy. Producer energy prices climbed 4.2% during August.\n\nThis matters because energy inflation can eventually spread through the economy.\n\nHigher oil prices increase transportation costs.\n\nHigher transportation costs increase the cost of moving products.\n\nBusinesses then have to decide whether to absorb those costs or pass them on to consumers.\n\nThat is why the recent oil move matters far beyond energy stocks."
+      ]
+    },
+    {
+      "heading": "3. Oil Becomes the Market's Biggest Wild Card",
+      "body": [
+        "Energy was arguably the most important market story this week.\n\nBrent crude finished Friday at $104.61 per barrel while WTI closed at $100.05.\n\nEven after Friday's decline, crude gained more than 8% during the week.\n\nSupply disruptions and escalating tensions around major Middle Eastern shipping routes have created renewed concerns about how much oil can reach global markets.\n\nShipping costs have also increased substantially.\n\nThe International Energy Agency now expects global oil supply to decline more sharply than previously forecast in 2026 as Gulf flows remain disrupted.\n\nThat creates an uncomfortable situation for central banks.\n\nNormally, weaker economic activity might justify lower interest rates.\n\nBut if oil continues pushing inflation higher, central banks have less freedom to cut rates.\n\nFor investors, oil may therefore be just as important to watch as the next CPI report.\n\nIf crude falls back below $100, some inflation pressure could ease.\n\nIf it moves materially higher, markets could begin pricing in a longer period of restrictive monetary policy."
+      ]
+    },
+    {
+      "heading": "4. Bonds: The 5% Question",
+      "body": [
+        "One of the most important numbers in the market right now is not the S&P 500.\n\nIt is the 10-year Treasury yield.\n\nThe yield ended the week around 4.97%, putting it extremely close to 5%.\n\nThat matters for several reasons.\n\nFirst, Treasury securities become more attractive when investors can earn roughly 5% with substantially less risk than equities.\n\nSecond, higher yields increase borrowing costs across the economy, including mortgages, corporate debt, and business investment.\n\nThird, higher yields reduce the present value investors are willing to assign to future corporate earnings.\n\nThat is especially important for technology and other high-growth companies whose valuations depend heavily on profits expected many years into the future.\n\nA sustained move above 5% could therefore become a meaningful test for equity valuations."
+      ]
+    },
+    {
+      "heading": "5. Earnings: AI Spending Is Still Producing Growth",
+      "body": [
+        "The macro environment dominated this week, but corporate earnings still gave investors important information.\n\nOracle\n\nOracle reported revenue of approximately $19.3 billion, up about 30% year over year.\n\nIts revenue backlog reached roughly $664 billion as demand for AI cloud infrastructure continued expanding.\n\nOracle also signed more than $30 billion of new AI cloud contracts during the quarter.\n\nThe results helped demonstrate that large-scale corporate spending on AI infrastructure is still translating into real revenue growth.\n\nHowever, Oracle's enormous capital spending remains an important risk. Investors continue to debate whether the long-term returns from AI infrastructure will justify the amount of capital being invested today.\n\nAdobe\n\nAdobe reported third-quarter revenue of $6.76 billion, ahead of Wall Street expectations.\n\nAdjusted earnings were $6.13 per share.\n\nAI-first annual recurring revenue increased more than 150% year over year, showing that Adobe is successfully generating demand for its new AI-based products.\n\nHowever, investors remained cautious after the company's fourth-quarter revenue outlook came in slightly below expectations.\n\nTogether, Oracle and Adobe show the two sides of the current AI trade.\n\nDemand is real and growing quickly.\n\nBut investors are becoming more demanding about profitability, monetization, and returns on AI investment"
+      ]
+    },
+    {
+      "heading": "6. The Consumer Is Starting to Matter More",
+      "body": [
+        "Another development worth watching is the consumer.\n\nUniversity of Michigan consumer sentiment fell to 47.8 in early September from 51.7 in August.\n\nConsumers' one-year inflation expectations also jumped to 4.6%.\n\nAt the same time, weekly jobless claims remained low at 206,000, suggesting that employers are still not laying off workers aggressively.\n\nThat creates a mixed picture.\n\nThe labor market remains relatively stable, but consumers are becoming increasingly worried about prices.\n\nRetailers are beginning to see some evidence of that pressure.\n\nKroger lowered its full-year comparable-sales outlook as shoppers became more cautious and inflation continued affecting purchasing behavior.\n\nThe strength of consumer spending will therefore be another major variable heading into the final months of 2026."
+      ]
+    },
+    {
+      "body": [
+        "### 1. Federal Reserve Decision — September 16\n\nThis is the biggest event.\n\nThe Federal Reserve concludes its two-day meeting Wednesday and releases its interest-rate decision at 2:00 PM ET.\n\nThe Fed will also release updated economic projections.\n\nMarkets have moved toward expecting another rate increase after the latest inflation reports and surge in energy prices.\n\nThe most important part may not be the rate decision itself.\n\nInvestors will be watching the Fed's guidance on whether additional rate increases could follow.\n\n### 2. August Retail Sales — September 16\n\nRetail sales are released Wednesday morning at 8:30 AM ET.\n\nThis report will help show whether consumers are continuing to spend despite higher gasoline prices and weaker sentiment.\n\nStrong sales combined with persistent inflation could strengthen the case for tighter monetary policy.\n\nWeak sales could increase concerns that higher rates are beginning to slow the economy.\n\n### 3. The 10-Year Treasury Yield\n\nThe 5% level is now extremely important.\n\nA sustained break above it could create additional pressure on equity valuations.\n\nA decline back toward 4.7%-4.8% would likely give growth stocks some relief.\n\n### 4. Oil\n\nWTI above $100 means energy is once again a meaningful inflation problem.\n\nAny major change in Middle East supply conditions could quickly move both oil and bond markets.\n\n### 5. AI Stocks\n\nOracle and Adobe showed that AI demand remains strong.\n\nBut the market is increasingly separating companies that can demonstrate real revenue and cash flow from companies trading primarily on AI expectations.\n\nThat distinction should become even more important going forward.\n\n---\n\n## Bottom Line\n\nThis week changed the market's risk equation.\n\nStocks remain near historically strong levels and corporate earnings continue to provide support, particularly in technology and AI.\n\nBut investors now have to deal with $100 oil, a 10-year Treasury yield near 5%, and inflation that is proving difficult to eliminate.\n\nThat combination makes the Federal Reserve the key catalyst heading into next week.\n\nThe bull case is that oil stabilizes, inflation pr"
+      ],
+      "heading": "7. What I'm Watching Next Week"
+    }
+  ],
+  "date": "2026-09-12",
+  "quickTake": [
+    "This week's market was less about corporate earnings and more about a major shift in the macro environment.\n\nThree forces are now interacting:\n\n1. Oil prices above $100 are increasing inflation pressure.\n2. Treasury yields are approaching levels that make bonds increasingly competitive with stocks.\n3. The Federal Reserve may need to keep monetary policy tighter than investors expected.\n\nThat does not automatically mean the equity rally is finished.\n\nIt does mean that the conditions supporting higher valuations are becoming more difficult.\n\nFor investors, the September 16 Federal Reserve meeting could be one of the most important market events of the fall."
+  ],
+  "title": "Oil, Inflation, and a 5% Treasury Yield Put the Fed Back in Control",
+  "sources": [
+    {
+      "label": "AP — September 11 U.S. market close",
+      "url": "https://apnews.com/article/67a463295d9ea178d7802ca4338a6eb5?utm_source=chatgpt.com"
+    },
+    {
+      "label": "Reuters — September 11 oil market report",
+      "url": "https://www.reuters.com/business/energy/oil-prices-set-end-week-over-100-first-time-nearly-4-months-2026-09-11/?utm_source=chatgpt.com"
+    },
+    {
+      "label": "Reuters — September 10 Oracle earnings",
+      "url": "https://www.reuters.com/technology/oracles-quarterly-revenue-beats-estimates-ai-boom-drives-cloud-demand-2026-09-10/?utm_source=chatgpt.com"
+    },
+    {
+      "label": "Reuters — September 10 Adobe earnings",
+      "url": "https://www.reuters.com/business/adobe-beats-third-quarter-revenue-estimates-2026-09-10/?utm_source=chatgpt.com"
+    },
+    {
+      "label": "Federal Reserve — September 2026 calendar",
+      "url": "https://www.federalreserve.gov/newsevents/2026-september.htm?utm_source=chatgpt.com"
+    },
+    {
+      "label": "U.S. Census Bureau — Retail Sales release schedule",
+      "url": "https://www.census.gov/retail/release_schedule.html?utm_source=chatgpt.com"
+    }
+  ],
+  "tags": [
+    "Federal Reserve",
+    "Inflation",
+    "Oil",
+    "Treasury Yields",
+    "Weekly Analysis"
+  ]
+}
